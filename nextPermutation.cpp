@@ -12,7 +12,7 @@ vector<int> nextPermutation(vector<int> &arr, int n) {
     }
   }
 
-  if (ind == -1) {
+  if (index == -1) {
     reverse(arr.begin(), arr.end());
     return arr;
   }
