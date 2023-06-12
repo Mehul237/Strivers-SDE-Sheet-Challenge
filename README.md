@@ -1,7 +1,7 @@
 # Strivers-SDE-Sheet-Challenge
 
 ## June-2023
-  Note: Date after Blank means Same date.
+  Note: Date after Blank means Same date
   
 | No. | Date |         Problem-Title                         | Difficulty   | Solution |
 | ----|------|---------------------------------------------- | -------      | ------- |
@@ -33,7 +33,11 @@
 | 26  |    | Middle Of Linked List | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/MiddleOfLinkedList.cpp)
 | 27  |    | Merge Two Sorted Linked Lists | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/MergeTwoSortedLinkedLists.cpp)
 | 28  |    | Delete Kth Node From End | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/DeleteKthNodeFromEnd.cpp)
-| 29  | 12-06-2023   |           |      | [Solution]( )
-| 30  |    |           |      | [Solution]( )
-| 01  |    |           |      | [Solution]( )
-| 02  |    |           |      | [Solution]( )
+| 29  | 12-06-2023   | Add Two Numbers | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/AddTwoNumbers.cpp)
+| 30  |    | Delete Node In A Linked List | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/DeleteNodeInALinkedList.cpp)
+| 31  |    | Intersection of Two Linked Lists | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/IntersectionofTwoLinkedLists.cpp)
+| 32  |    | Cycle Detection in a Singly Linked List | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/CycleDetectioninaSinglyLinkedList.cpp)
+| 33  | 13-06-2023   |           |      | [Solution]( )
+| 34  |    |           |      | [Solution]( )
+| 35  |    |           |      | [Solution]( )
+| 36  |    |           |      | [Solution]( )
