@@ -2,6 +2,7 @@
 
 ## June-2023
   Note: Date after Blank means Same date
+  <br>
   
 | No. | Date |         Problem-Title                         | Difficulty   | Solution |
 | ----|------|---------------------------------------------- | -------      | ------- |
@@ -41,7 +42,11 @@
 | 34  |    | Palindrome Linked List | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/PalindromeLinkedList.cpp)
 | 35  |    | Linked List Cycle II | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/LinkedListCycleII.cpp)
 | 36  |    | Flatten A Linked List | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/FlattenALinkedList.cpp)
-| 37  | 14-06-2023 |  |  | [Solution]( )
-| 38  |    |           |      | [Solution]( )
-| 39  |    |           |      | [Solution]( )
-| 40  |    |           |      | [Solution]( )
+| 37  | 14-06-2023 | Rotate Linked List | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/RotateLinkedList)
+| 38  |    | Copy List with Random Pointer | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/CopyListwithRandomPointer.cpp)
+| 39  |    | 3 Sum | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/3sum.cpp)
+| 40  |    | Trapping Rain Water | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/TrappingRainWater.cpp)
+| 41  | 15-06-2023 |  |   | [Solution]( )
+| 42  |    |           |      | [Solution]( )
+| 43  |    |           |      | [Solution]( )
+| 44  |    |           |      | [Solution]( )
