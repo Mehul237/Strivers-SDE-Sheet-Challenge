@@ -1,6 +1,7 @@
 
 #include <bits/stdc++.h> 
 
+
 /************************************************************
 Approach
 
@@ -10,10 +11,9 @@ As all the remaining nodes will be hidden.
 
 We will do a Level Order Traversal.
 
-Time Complexity: O(N*logN)
-
-Space Complexity: O(N)
-
+Complexity: 
+      -> Time : O(N*logN)
+      -> Space : O(N)
 ************************************************************/
 
 
