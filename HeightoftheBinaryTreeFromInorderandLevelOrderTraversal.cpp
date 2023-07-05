@@ -3,9 +3,7 @@
 
 class Temp {
 public:
-    int height;
-    int leftIndex;
-    int rightIndex;
+    int height, leftIndex, rightIndex;
 
     Temp(int h, int li, int ri) {
         height = h;
