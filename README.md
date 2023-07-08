@@ -1,6 +1,6 @@
 # Strivers-SDE-Sheet-Challenge
 
-## June-2023
+## June, July-2023
   Note: Date after Blank means Same date
   <br>
   
@@ -110,6 +110,10 @@
 | 102  |    | Implement Atoi Function | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/ImplementAtoiFunction.cpp)
 | 103 |    | Longest Common Prefix | Moderate| [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/a9a9c202dc997b4a874cdabe2e70afc981115061/LongestCommonPrefix.cpp)
 | 104  |    | Search Pattern (Rabin-Karp Algorithm) | Moderate | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/c55ef2ef4034a3511cae411b64d993cd116e0f77/SearchPattern.cpp)
+| ----|------|---------------------------------------------- | -------| ------- |
+| ----|------|---------------------------------------------- | -------| ------- |
+| ----|------|---------------------------------------------- | -------| ------- |
+| ----|------|---------------------------------------------- | -------| ------- |
 | 105  | 01-07-2023 | Z Algorithm | Hard | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/ZAlgorithm.cpp)
 | 106  |    | Find Pattern in String - KMP Algorithm | Easy | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/FindPatterninStringKMPAlgorithm.cpp)
 | 107 |    | Minimum Characters For Palindrome | Hard | [Solution](https://github.com/Mehul237/Strivers-SDE-Sheet-Challenge/blob/main/MinimumCharactersForPalindrome.cpp)
